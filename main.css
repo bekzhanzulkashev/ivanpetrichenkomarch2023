@@ -4,4 +4,6 @@ html, body{
 
 h2{
     font-size: 14px;
+    background-color: #FFF;
+    line-height: 1.4;
 }
